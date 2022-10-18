@@ -1,0 +1,20 @@
+{
+	"name": "chatus",
+	"version": "1.0.0",
+	"description": "MERN Chat project",
+	"main": "server.js",
+	"scripts": {
+		"start": "nodemon backend/server.js"
+	},
+	"author": "David Martinez",
+	"license": "ISC",
+	"dependencies": {
+		"@chakra-ui/react": "^2.3.6",
+		"@emotion/react": "^11.10.4",
+		"@emotion/styled": "^11.10.4",
+		"dotenv": "^16.0.3",
+		"express": "^4.18.2",
+		"framer-motion": "^7.6.1",
+		"nodemon": "^2.0.20"
+	}
+}
